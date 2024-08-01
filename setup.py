@@ -1,4 +1,5 @@
 import setuptools
+# import os
 
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
@@ -6,8 +7,8 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Chicken-Disease-Classification--Project"
-AUTHOR_USER_NAME = "Prasad"
+REPO_NAME = "chichekn-disease-classification-project"
+AUTHOR_USER_NAME = "prasaddsaodekar"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "prasadasaodekar@gmail.com"
 

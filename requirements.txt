@@ -1,3 +1,4 @@
+setuptools
 pandas
 dvc
 notebook
@@ -7,11 +8,13 @@ seaborn
 pyYAML
 tqdm
 joblib
-# types-paYAML
+pyYAML
 Flask
 scipy
 tensorflow
 python-box==6.0.2
 ensure==1.0.2
 Flask-Cors
+# os
+
 -e .
